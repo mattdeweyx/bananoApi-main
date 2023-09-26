@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Relicarios",
+        "slug": "relicarios"
+    },
+    {
+        "id": 2,
+        "name": "Fotograbados",
+        "slug": "fotograbados"
+    },
+    {
+        "id": 3,
+        "name": "Fototallados",
+        "slug": "fototallados"
+    },
+    {
+        "id": 4,
+        "name": "Llaveros",
+        "slug": "llaveros"
+    },
+    {
+        "id": 5,
+        "name": "Pulseras",
+        "slug": "pulseras"
+    },
+    {
+        "id": 6,
+        "name": "Cadenas",
+        "slug": "cadenas"
+    },
+    {
+        "id": 7,
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+    }
+    
+]
